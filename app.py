@@ -3,6 +3,7 @@ import nltk
 nltk.download('punkt')
 from nltk.stem.lancaster import LancasterStemmer
 stemmer = LancasterStemmer()
+nltk.download('wordnet')
 # Libraries needed for Tensorflow processing
 import tensorflow as tf
 import numpy as np
