@@ -1,2 +1,2 @@
   
-web: gunicorn app:tapp
+web: gunicorn app:app
