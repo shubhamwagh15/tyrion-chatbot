@@ -1,5 +1,6 @@
 #from chatbot import chatbot
 import nltk
+nltk.download('punkt')
 from nltk.stem.lancaster import LancasterStemmer
 stemmer = LancasterStemmer()
 # Libraries needed for Tensorflow processing
