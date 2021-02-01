@@ -1,7 +1,7 @@
 {"intents": [
         {"tag": "greeting",
          "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
-         "responses": ["Death is so final. Whereas life, ah, life is full of possibilities.", "all hail bran the broken"],
+         "responses": ["Death is so final. Whereas life, ah, life is full of possibilities.", "all hail bran the broken","I try to know as many people as I can. You never know which one you’ll need","Dark Wings, Dark Words","Everything’s better with some wine in the belly."],
          "context_set": ""
         },
         {"tag": "dwarf",
